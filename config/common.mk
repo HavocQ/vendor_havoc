@@ -118,16 +118,11 @@ PRODUCT_PACKAGES += \
 
 # AOSP packages
 PRODUCT_PACKAGES += \
-    ExactCalculator \
-    Exchange2 \
-    Terminal \
     ThemePicker
 
 # Havoc packages
 PRODUCT_PACKAGES += \
-    Browser \
     CustomDoze \
-    GalleryGoPrebuilt \
     Longshot \
     OmniStyle \
     PixelThemesStub2019 \
