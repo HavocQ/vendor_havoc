@@ -123,7 +123,6 @@ PRODUCT_PACKAGES += \
 # Havoc packages
 PRODUCT_PACKAGES += \
     CustomDoze \
-    Longshot \
     OmniStyle \
     PixelThemesStub2019 \
     ShadyQuickStep \
