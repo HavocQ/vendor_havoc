@@ -123,7 +123,6 @@ PRODUCT_PACKAGES += \
 # Havoc packages
 PRODUCT_PACKAGES += \
     CustomDoze \
-    Longshot \
     Dirac \
     OmniStyle \
     PixelThemesStub2019 \
@@ -258,6 +257,10 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/havoc/overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/havoc/overlay/common
+
+# Long Screenshot
+PRODUCT_PACKAGES += \
+    StitchImage
 
 # Enable ccache
 USE_CCACHE := true
