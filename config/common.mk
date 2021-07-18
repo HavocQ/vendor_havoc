@@ -124,6 +124,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     CustomDoze \
     Longshot \
+    Dirac \
     OmniStyle \
     PixelThemesStub2019 \
     ShadyQuickStep \
